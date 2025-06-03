@@ -367,6 +367,8 @@ section{
     place-items: center;
     gap: 3rem;
     row-gap: 5rem;
+    justify-content: center;
+    align-items: center;
 
 }
 
