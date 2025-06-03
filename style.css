@@ -550,6 +550,11 @@ section{
         width:52vw ;
     }
 
+    .projects-box{
+        align-items: center;
+        justify-content: center;
+    }
+
     .contact form{
         flex-direction: column;
     }
